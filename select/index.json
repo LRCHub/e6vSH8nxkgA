@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "15の夜 (ライブ)",
+  "base_artist": "Yutaka Ozaki",
+  "createdAt": "2025-12-02T08:41:19.414888Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "15の夜(ライブ)",
+      "artist": "Yutaka Ozaki",
+      "has_synced": false,
+      "path": "select/pl_01_15の夜(ライブ)_Yutaka_Ozaki.txt"
+    }
+  ]
+}
